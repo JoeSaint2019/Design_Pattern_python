@@ -1,0 +1,2 @@
+# Design_Pattern_python
+python实现设计模式样例及说明
